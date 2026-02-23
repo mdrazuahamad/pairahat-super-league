@@ -8,7 +8,7 @@ import PlayerProfile from "./pages/PlayerProfile";
 
 function App() {
   return (
-    <BrowserRouter basename='/'>
+    <BrowserRouter>
       <div className='flex flex-col min-h-screen'>
         <Navbar />
 
