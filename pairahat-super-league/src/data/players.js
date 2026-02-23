@@ -1,4 +1,6 @@
 import image1 from "../assets/images/MUNNA.jpg";
+import image2 from "../assets/images/toufiq.jpg";
+import image3 from "../assets/images/NAHID.jpg";
 
 const player = [
   {
@@ -14,23 +16,23 @@ const player = [
   },
   {
     id: 2,
-    name: "Karim Sheikh",
-    age: 24,
-    position: "Midfielder",
-    preferredFoot: "Left",
-    height: "5 ft 10 in",
+    name: "Toufiq",
+    age: 18,
+    position: "Defender",
+    preferredFoot: "Right",
+    height: "5 ft 8 in",
     nationality: "Bangladesh",
-    image: "https://i.pravatar.cc/600?img=12",
+    image: image2,
   },
   {
     id: 3,
-    name: "Jamal Hossain",
-    age: 21,
-    position: "Defender",
+    name: "Nahid",
+    age: 18,
+    position: "Midfielder",
     preferredFoot: "Right",
-    height: "6 ft",
+    height: "5 ft 10 in",
     nationality: "Bangladesh",
-    image: "https://i.pravatar.cc/600?img=13",
+    image: image3,
   },
   {
     id: 4,
